@@ -167,6 +167,10 @@ git clone https://github.com/your-forked-repo-URL/Deep-DMS-Reactor.git
 cd Deep-DMS-Reactor
 ```
 
+```bash
+pip3 install -r requirements.txt
+```
+
 
 <div align="right">
     <b><a href="#Table-of-contents">↥ back to top</a></b>
