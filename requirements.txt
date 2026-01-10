@@ -1,0 +1,9 @@
+python 3.11.11
+torch 2.6.0+cu124
+tabpfn 2.0.9
+shap 0.44.1
+pandas 2.2.3
+numpy 1.26.4
+scipy 1.15.2
+matplotlib 3.7.2
+seaborn 0.12.2
