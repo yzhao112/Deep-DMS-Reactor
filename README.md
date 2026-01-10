@@ -24,6 +24,7 @@
 - [Model Inference](#Model-Inference)
 - [Reactor Optimization result](#Reactor-Optimization-result)
 - [Citation](#Citation)
+- [Fast Start](#Tast-Start)
 
 
 
@@ -99,11 +100,15 @@ Model reslts is listed below:
 
 # Model Interpretability
 
+![](asserts/Interpretability/interpretaable.png)
+
 <div align="right">
     <b><a href="#Table-of-contents">↥ back to top</a></b>
 </div>
 
 # Model Inference
+
+![](asserts/Inference/inference.jpg)
 
 <div align="right">
     <b><a href="#Table-of-contents">↥ back to top</a></b>
@@ -111,11 +116,56 @@ Model reslts is listed below:
 
 # Reactor Optimization result
 
+TABLE 2 Final Reactor Design Specifications
+| Project               | Details                          |
+| --------------------- | -------------------------------- |
+| Equipment Name        | Methanol-Hydrogen Sulfide Reactor|
+| Reactor Type          | Tubular Fixed-Bed Reactor        |
+| Shell Inner Diameter  | 2200 mm                          |
+| Overall Height        | 8106 mm                          |
+| Tube Count            | 1114                             |
+| Tube Length           | 4000 mm                          |
+| Heat Transfer Area    | 1889.86 m²                       |
+| Shell Material        | 15CrMoR                          |
+| Shell Wall Thickness  | 16 mm                            |
+| Head Wall Thickness   | 16 mm                            |
+| Skirt Wall Thickness  | 20 mm                            |
+| Catalyst Bed Height   | 2200 mm                          |
+
 <div align="right">
     <b><a href="#Table-of-contents">↥ back to top</a></b>
 </div>
 
 # Citation
+
+This paper is under-review, the whole citation information will update after publishing.
+
+If this paper is helpful for you, please cite:
+
+```bib
+@misc{hao2025deepdms,
+      title={Deep-DMS_Reactor}, 
+      author={Yuze Hao, Kai Hou, Rui-Rui Shi, Xiang Li, Lan Duo and Changyan Li},
+      year={2025},
+      publisher = {GitHub},
+      journal = {GitHub repository},
+      howpublished = {\url{https://github.com/WangRongsheng/awesome-LLM-resourses}},
+}
+```
+
+<div align="right">
+    <b><a href="#Table-of-contents">↥ back to top</a></b>
+</div>
+
+# Fast Start
+
+First, fork this repo to your own profile, and run the following code on your local terminal:
+
+```bash
+git clone https://github.com/your-forked-repo-URL/Deep-DMS-Reactor.git
+cd Deep-DMS-Reactor
+```
+
 
 <div align="right">
     <b><a href="#Table-of-contents">↥ back to top</a></b>
