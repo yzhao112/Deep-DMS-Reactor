@@ -149,7 +149,7 @@ If this paper is helpful for you, please cite:
       year={2025},
       publisher = {GitHub},
       journal = {GitHub repository},
-      howpublished = {\url{https://github.com/WangRongsheng/awesome-LLM-resourses}},
+      howpublished = {\url{https://github.com/YuzeHao2023/Deep-DMS-Reactor}},
 }
 ```
 
