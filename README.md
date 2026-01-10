@@ -38,6 +38,10 @@
 
 To address the issues in the traditional parameter optimization of tubular fixed-bed reactors for dimethyl sulfide (DMS) synthesis—including the difficulty in quantifying multi-parameter interactions, the "black-box" nature of model predictions, and the high cost of experiments/simulations—an explainable deep learning model is adopted to achieve global optimization of the reactor's key operating parameters, aiming to maximize the DMS mass flow rate and quantify the influence weight of each parameter on reaction performance.
 
+![](asserts/intro/DMSreactor.svg)
+
+<p align = "center">Reaction Process<p>
+
 # Reaction Process Construction
 
 # Automated Simulation
