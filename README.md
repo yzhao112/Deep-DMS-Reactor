@@ -160,6 +160,42 @@ If this paper is helpful for you, please cite:
 
 # Fast Start
 
+repo structure is:
+
+```
+├── README.md
+├── asserts
+│   ├── Inference
+│   │   └── inference.jpg
+│   ├── Interpretability
+│   │   └── interpretaable.png
+│   ├── benchmark
+│   │   ├── benchmark.jpg
+│   │   └── heatmap.png
+│   ├── intro
+│   │   ├── DMSreactor.svg
+│   │   └── outputs_3d
+│   │       ├── 3D_CH3SH.html
+│   │       ├── 3D_HO-M-O_bridged.html
+│   │       ├── 3D_Intermediate_S-bound.html
+│   │       ├── 3D_Product_CH32S.html
+│   │       └── 3D_Product_H2S.html
+│   ├── logo-deepdms.png
+│   ├── process
+│   │   └── process.png
+│   └── training
+│       └── ttraining.png
+├── data
+│   ├── Inference-data.csv
+│   └── train-data.csv
+├── requirements.txt
+└── src
+    ├── auto-train.r
+    ├── global-step.py
+    ├── inference.py
+    └── model-train.py
+```
+
 First, fork this repo to your own profile, and run the following code on your local terminal:
 
 ```bash
